@@ -1,0 +1,26 @@
+ID,Dia,Peso Total,Peso Cuartil,Volumen,Ubicacion,Usuario
+37,5,62.000,505.000,05,La casa de Azul,Administrador
+36,4,30.000,51.000,5,La casa de Azul,Administrador
+35,3,2.000,52.000,52,La casa de Azul,Administrador
+34,2,2.000,52.000,6,La casa de Azul,Administrador
+33,1,51.000,51.000,51,La casa de Azul,Administrador
+32,5,15.000,5.000,51,La casa de dani,Administrador
+31,4,54.000,5.000,5,La casa de dani,Administrador
+30,3,4.000,5.000,5,La casa de dani,Administrador
+29,2,51.000,15.000,5,La casa de dani,Administrador
+28,1,54.000,5.000,9,La casa de dani,Administrador
+27,5,61.000,5.000,6,Mi casa,Administrador
+26,4,62.000,5.000,6,Mi casa,Administrador
+25,3,21.000,21.000,5,Mi casa,Administrador
+24,2,2.000,5.000,51,Mi casa,Administrador
+23,1,2.000,2.000,5115,Mi casa,Administrador
+22,5,51.000,5.000,5,ESC,Administrador
+21,4,12.000,5.000,5,ESC,Administrador
+20,3,151.000,21.000,2,ESC,Administrador
+19,2,21.000,21.000,21,ESC,Administrador
+18,5,2.000,21.000,2,EIA,Administrador
+17,4,21.000,5.000,32,EIA,Administrador
+16,3,8.000,9.000,56,EIA,Administrador
+15,2,52.000,54.000,521,EIA,Administrador
+12,1,2.500,2.500,algo,ESC,Administrador
+11,1,4.000,2.550,una caja,EIA,Administrador

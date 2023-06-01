@@ -1,0 +1,126 @@
+ID,Cantidad (kg),Residuo,Dia,Ubicacion
+24,0.500,Cartón,1,EIA
+25,0.250,PET 2,1,EIA
+26,0.600,Bolsas de Plastico,1,EIA
+27,0.650,Tetrapak,1,EIA
+28,0.250,PET,1,EIA
+29,0.200,PET 2,1,ESC
+30,0.500,Tetrapak,1,ESC
+31,0.650,Bolsas de Plastico,1,ESC
+32,0.500,Cartón,1,ESC
+33,0.500,PET,1,ESC
+44,2.000,PET 2,2,EIA
+45,3.000,Tetrapak,2,EIA
+46,65.000,Bolsas de Plastico,2,EIA
+47,8.000,Cartón,2,EIA
+48,5.000,PET,2,EIA
+49,3.000,PET 2,3,EIA
+50,56.000,PET,3,EIA
+51,5.600,Bolsas de Plastico,3,EIA
+52,0.550,Tetrapak,3,EIA
+53,55.000,Cartón,3,EIA
+54,3.000,PET 2,4,EIA
+55,8.900,Cartón,4,EIA
+56,9.000,Bolsas de Plastico,4,EIA
+57,5.000,PET,4,EIA
+58,8.000,Tetrapak,4,EIA
+59,1.200,PET 2,5,EIA
+60,9.000,Cartón,5,EIA
+61,2.000,Tetrapak,5,EIA
+62,5.000,Bolsas de Plastico,5,EIA
+63,58.600,PET,5,EIA
+64,3.000,Cartón,2,ESC
+65,215.000,PET 2,2,ESC
+66,9.000,Bolsas de Plastico,2,ESC
+67,6.000,PET,2,ESC
+68,665.000,Tetrapak,2,ESC
+69,21.000,PET 2,3,ESC
+70,6.000,Cartón,3,ESC
+71,9.000,Tetrapak,3,ESC
+72,2.000,Bolsas de Plastico,3,ESC
+73,5.000,PET,3,ESC
+74,2.000,PET 2,4,ESC
+75,5.000,Cartón,4,ESC
+76,52.000,PET,4,ESC
+77,65.000,Bolsas de Plastico,4,ESC
+78,99.000,Tetrapak,4,ESC
+79,2.000,PET 2,5,ESC
+80,5.000,PET,5,ESC
+81,52.000,Bolsas de Plastico,5,ESC
+82,5.000,Cartón,5,ESC
+83,52.000,Tetrapak,5,ESC
+84,5.000,PET 2,1,Mi casa
+85,121.000,Bolsas de Plastico,1,Mi casa
+86,15.000,Tetrapak,1,Mi casa
+87,551.000,PET,1,Mi casa
+88,5.000,Cartón,1,Mi casa
+89,2.000,PET 2,2,Mi casa
+90,0.000,Cartón,2,Mi casa
+91,5.000,Tetrapak,2,Mi casa
+92,9.000,Bolsas de Plastico,2,Mi casa
+93,2.000,PET,2,Mi casa
+94,5.000,PET 2,3,Mi casa
+95,3.000,Tetrapak,3,Mi casa
+96,0.000,Cartón,3,Mi casa
+97,584.000,PET,3,Mi casa
+98,9.000,Bolsas de Plastico,3,Mi casa
+99,25.000,PET 2,4,Mi casa
+100,151.000,Tetrapak,4,Mi casa
+101,5.000,Bolsas de Plastico,4,Mi casa
+102,54.000,Cartón,4,Mi casa
+103,5416.000,PET,4,Mi casa
+104,5.000,PET 2,5,Mi casa
+105,6.000,PET,5,Mi casa
+106,3.000,Cartón,5,Mi casa
+107,9.000,Tetrapak,5,Mi casa
+108,4.000,Bolsas de Plastico,5,Mi casa
+109,165.000,PET 2,1,La casa de dani
+110,2.000,Cartón,1,La casa de dani
+111,3.000,Bolsas de Plastico,1,La casa de dani
+112,8.000,PET,1,La casa de dani
+113,9.000,Tetrapak,1,La casa de dani
+114,115.000,PET 2,2,La casa de dani
+115,5.000,Tetrapak,2,La casa de dani
+116,15.000,Cartón,2,La casa de dani
+117,15.000,Bolsas de Plastico,2,La casa de dani
+118,515.000,PET,2,La casa de dani
+119,56.000,PET 2,3,La casa de dani
+120,9.000,Bolsas de Plastico,3,La casa de dani
+121,3.000,PET,3,La casa de dani
+122,5.000,Cartón,3,La casa de dani
+125,515.000,Tetrapak,4,La casa de dani
+132,51.000,Bolsas de Plastico,5,La casa de dani
+123,6.000,Tetrapak,3,La casa de dani
+124,551.000,PET 2,4,La casa de dani
+133,515.000,PET,5,La casa de dani
+134,5156.000,PET 2,1,La casa de Azul
+148,25.000,Tetrapak,3,La casa de Azul
+149,0.000,PET 2,4,La casa de Azul
+126,15.000,Bolsas de Plastico,4,La casa de dani
+131,1.000,Tetrapak,5,La casa de dani
+127,51.000,Cartón,4,La casa de dani
+130,9.000,Cartón,5,La casa de dani
+128,5.000,PET,4,La casa de dani
+129,1.000,PET 2,5,La casa de dani
+135,11.000,Cartón,1,La casa de Azul
+136,6.000,Bolsas de Plastico,1,La casa de Azul
+137,660.000,PET,1,La casa de Azul
+138,6060.000,Tetrapak,1,La casa de Azul
+139,62.000,PET 2,2,La casa de Azul
+140,91.000,Bolsas de Plastico,2,La casa de Azul
+141,2.000,Cartón,2,La casa de Azul
+142,0.000,PET,2,La casa de Azul
+143,65.000,Tetrapak,2,La casa de Azul
+144,652.000,PET 2,3,La casa de Azul
+145,5.000,Bolsas de Plastico,3,La casa de Azul
+146,5.000,Cartón,3,La casa de Azul
+147,52.000,PET,3,La casa de Azul
+150,50.000,Tetrapak,4,La casa de Azul
+151,51.000,Bolsas de Plastico,4,La casa de Azul
+152,5.000,Cartón,4,La casa de Azul
+153,50.000,PET,4,La casa de Azul
+154,0.000,PET 2,5,La casa de Azul
+155,505.000,Tetrapak,5,La casa de Azul
+156,45.000,Bolsas de Plastico,5,La casa de Azul
+157,15.000,Cartón,5,La casa de Azul
+158,0.000,PET,5,La casa de Azul
